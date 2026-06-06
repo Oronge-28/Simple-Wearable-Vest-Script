@@ -1,1 +1,3 @@
 This is a script that allows you to create vests that you can wear and will give you armor. You can config how much percent armor what vest gives, what notify script (custom, ox_lib or esx) you want to use and so much more...
+
+<img width="112" height="109" alt="Screenshot 2026-06-07 001224" src="https://github.com/user-attachments/assets/66c0bf90-4809-4746-84ca-8426e0646620" />
